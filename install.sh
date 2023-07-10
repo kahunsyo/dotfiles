@@ -1,3 +1,3 @@
 #!/bin/sh
 
-cp -rid ./src/* ~/. 
+cp -rid ./src/. ~/. 
