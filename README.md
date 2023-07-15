@@ -12,5 +12,5 @@ sh ./install.sh
 
 - `src/.config/autostart/org.gnome.Evolution-alarm-notify.desktop`: Do not autostart pre-installed Calendar app in Ubuntu: Reminders/Evolution Alarm Notify
 - `src/.vimrc`: Vim config
-- ``src/.config/fish``: fish config
-
+- `src/.config/fish`: fish config
+- `src/.config/user-dirs.dirs`: config for language of home directry
